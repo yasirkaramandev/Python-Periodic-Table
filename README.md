@@ -7,5 +7,5 @@ PyQt5 ile geliştirilen periyodik tablo uygulaması. Periyodik tablo elementleri
 - Projedeki kütüphaneleri indiriyoruz `pip install -r requeriments.txt`
 - Başlatmak `python kimyamain.py`
 
-#Lisance
+# Lisance
 MIT Lisansı ile lisanslanmıştır.
